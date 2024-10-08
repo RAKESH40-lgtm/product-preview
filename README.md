@@ -28,9 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [product-preview-card](https://product-preview-navy-psi.vercel.app/)
 
 ### Built with
 
